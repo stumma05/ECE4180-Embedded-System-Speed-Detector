@@ -13,14 +13,14 @@ Finally, if there were more time and resources in the project, the final product
 Circuit Diagrams:
 
 This is the IR LED circuit which was placed on two breadboards directly facing the reciever breadbaords.
-<img width="554" height="529" alt="irLED_circuit" src="https://github.gatech.edu/user-attachments/assets/863c5b0b-c666-4ffc-985c-c4691d2db629" />
+<img width="554" height="529" alt="irLED_circuit" src="https://github.com/user-attachments/assets/630434a2-5d73-4ccc-bbd0-59e2e73dfff8" />
 
 This is a IR reciever circuit on one of the breadboard, which kept track of the second IR beam.
-<img width="715" height="549" alt="irREC_circuit" src="https://github.gatech.edu/user-attachments/assets/bfc36182-b23a-4f7a-bf68-65ba72381f2b" />
-
+<img width="715" height="549" alt="irREC_circuit" src="https://github.com/user-attachments/assets/b63d602c-b66e-452f-868a-09d9f2ab586a" />
 
 This is the main circuit with the TinyS3, screen, capacitive keypad, and much more, including a IR reciever, which kept track of the first IR beam.
 However, keeping track was simply one of the functions of this circuit as this was the main part of the project.
-<img width="790" height="544" alt="s3" src="https://github.gatech.edu/user-attachments/assets/9be1871f-f16a-4d3e-b06f-a807a2885188" />
+<img width="768" height="527" alt="zoomout_irLED_circuit" src="https://github.com/user-attachments/assets/d9987cc3-c4f0-4ec9-b113-94762b371195" />
+
 
 
