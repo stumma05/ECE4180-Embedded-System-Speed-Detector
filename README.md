@@ -11,14 +11,16 @@ Additionally, this project is similar to how they detect speeds in bowling and i
 Finally, if there were more time and resources in the project, the final product could be improved significantly. Firstly, we could add a much bigger screen and get a physical stand, so that people don't have to bend down to see the LCD screen and the LCD screen could be at eye level. Moreover, we could add a mechanical lock to completely lock the breadboards in place once you properly position the beams, and this would ensure that they couldn’t be knocked out of alignment by anyone.
 
 Circuit Diagrams:
+
 This is the IR LED circuit which was placed on two breadboards directly facing the reciever breadbaords.
-<img width="768" height="527" alt="zoomout_irLED_circuit" src="https://github.com/user-attachments/assets/61a48c94-d98a-4396-9cca-170313c5ca10" />
+<img width="554" height="529" alt="irLED_circuit" src="https://github.gatech.edu/user-attachments/assets/863c5b0b-c666-4ffc-985c-c4691d2db629" />
 
 This is a IR reciever circuit on one of the breadboard, which kept track of the second IR beam.
-<img width="807" height="553" alt="zoomout_irREC_circuit" src="https://github.com/user-attachments/assets/dc8e5e44-511f-4964-9b5e-002d6433012a" />
+<img width="715" height="549" alt="irREC_circuit" src="https://github.gatech.edu/user-attachments/assets/bfc36182-b23a-4f7a-bf68-65ba72381f2b" />
+
 
 This is the main circuit with the TinyS3, screen, capacitive keypad, and much more, including a IR reciever, which kept track of the first IR beam.
 However, keeping track was simply one of the functions of this circuit as this was the main part of the project.
-<img width="907" height="622" alt="zoomout_s3" src="https://github.com/user-attachments/assets/82691984-d2e4-419d-add3-d6000daad94c" />
+<img width="790" height="544" alt="s3" src="https://github.gatech.edu/user-attachments/assets/9be1871f-f16a-4d3e-b06f-a807a2885188" />
 
 
